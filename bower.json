@@ -16,5 +16,12 @@
     "animate.css": "~3.3.0",
     "bootstrap": "~3.3.4",
     "fontawesome": "~4.3.0"
-  }
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
 }
