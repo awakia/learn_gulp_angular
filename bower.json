@@ -1,0 +1,11 @@
+{
+  "name": "node_exp",
+  "version": "0.0.0",
+  "authors": [
+    "awakia"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT"
+}
